@@ -1,0 +1,38 @@
+html, body{
+  box-sizing:border-box;
+  margin:0px;
+  padding:0px;
+  height:100vh;
+  width:100vw;
+  overflow-x:hidden;
+}
+header{
+  height:auto;
+}
+nav{
+  height:50px;
+}
+main{
+  background:white;
+  height:auto;
+}
+footer{
+  height:20px;
+  display:flex;
+  justify-content:center;
+  background-color:#F8F9FA;
+}
+.container{
+  display:contents;
+  flex-direction:column;
+}
+#sobre{
+  text-align:center;
+}
+.texto-principal{
+  padding:40px;
+}
+.texto-principall{
+  padding:40px;
+}
+
